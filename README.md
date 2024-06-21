@@ -1,2 +1,2 @@
 # testrepo
-meowmeowmeowmeow
+Usage: python webserver.py
